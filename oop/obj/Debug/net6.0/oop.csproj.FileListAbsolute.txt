@@ -1,0 +1,15 @@
+D:\VS Project\oop\oop\oop\obj\Debug\net6.0\oop.csproj.AssemblyReference.cache
+D:\VS Project\oop\oop\oop\obj\Debug\net6.0\oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Project\oop\oop\oop\obj\Debug\net6.0\oop.AssemblyInfoInputs.cache
+D:\VS Project\oop\oop\oop\obj\Debug\net6.0\oop.AssemblyInfo.cs
+D:\VS Project\oop\oop\oop\obj\Debug\net6.0\oop.csproj.CoreCompileInputs.cache
+D:\VS Project\oop\oop\oop\bin\Debug\net6.0\oop.exe
+D:\VS Project\oop\oop\oop\bin\Debug\net6.0\oop.deps.json
+D:\VS Project\oop\oop\oop\bin\Debug\net6.0\oop.runtimeconfig.json
+D:\VS Project\oop\oop\oop\bin\Debug\net6.0\oop.dll
+D:\VS Project\oop\oop\oop\bin\Debug\net6.0\oop.pdb
+D:\VS Project\oop\oop\oop\obj\Debug\net6.0\oop.dll
+D:\VS Project\oop\oop\oop\obj\Debug\net6.0\refint\oop.dll
+D:\VS Project\oop\oop\oop\obj\Debug\net6.0\oop.pdb
+D:\VS Project\oop\oop\oop\obj\Debug\net6.0\oop.genruntimeconfig.cache
+D:\VS Project\oop\oop\oop\obj\Debug\net6.0\ref\oop.dll
